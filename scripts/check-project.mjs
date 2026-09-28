@@ -16,7 +16,7 @@ const checks = [
   ["document language", /<html\s+lang="en"/u.test(files.html)],
   ["viewport metadata", /name="viewport"/u.test(files.html)],
   ["description metadata", /name="description"/u.test(files.html)],
-  ["canonical URL", /rel="canonical"\s+href="https:\/\/mykoladotsenko\.github\.io\/Form-validator\/"/u.test(files.html)],
+  ["canonical URL", /rel="canonical"\s+href="https:\/\/mykoladotsenko\.github\.io\/formguard\/"/u.test(files.html)],
   ["Open Graph metadata", /property="og:title"/u.test(files.html) && /property="og:url"/u.test(files.html)],
   ["social image metadata", /property="og:image"/u.test(files.html) && /name="twitter:image"/u.test(files.html)],
   ["semantic main landmark", /<main\b/u.test(files.html)],
