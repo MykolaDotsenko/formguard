@@ -1,10 +1,10 @@
 # FormGuard — Accessible Validation Lab
 
-[![Quality](https://github.com/MykolaDotsenko/Form-validator/actions/workflows/quality.yml/badge.svg)](https://github.com/MykolaDotsenko/Form-validator/actions/workflows/quality.yml)
+[![Quality](https://github.com/MykolaDotsenko/formguard/actions/workflows/quality.yml/badge.svg)](https://github.com/MykolaDotsenko/formguard/actions/workflows/quality.yml)
 
 **A dependency-free registration flow rebuilt as a compact frontend engineering case study.**
 
-[**Open the live demo →**](https://mykoladotsenko.github.io/Form-validator/) · [Architecture](./ARCHITECTURE.md) · [Browser tests](./e2e/formguard.spec.js)
+[**Open the live demo →**](https://mykoladotsenko.github.io/formguard/) · [Architecture](./ARCHITECTURE.md) · [Browser tests](./e2e/formguard.spec.js)
 
 FormGuard shows how a small interaction can still deserve clear boundaries, useful validation, accessible feedback, progressive enhancement, cross-browser verification, and automated quality gates — without introducing a framework the product does not need.
 
